@@ -45,8 +45,3 @@ python Disk-Filler.py [options]
 ```
 
 *As with the Python script, more detailed usage and options should be documented within the script itself.*
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
